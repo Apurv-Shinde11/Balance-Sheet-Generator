@@ -1,0 +1,116 @@
+{
+    "company": {
+        "name": "GOLD",
+        "ticker": "GOLD",
+        "currency": "INR"
+    },
+    "periods": {
+        "current": "2025-06",
+        "previous": "2024-06"
+    },
+    "sections": [
+        {
+            "section_title": "Assets",
+            "metrics": [
+                {
+                    "label": "Total Assets",
+                    "current": "\u20b9221.54 Cr",
+                    "previous": "\u20b9182.78 Cr",
+                    "change_pct": "21.21%",
+                    "trend": "up",
+                    "signal": "positive"
+                },
+                {
+                    "label": "Cash & Cash Equivalents",
+                    "current": "\u20b97.77 Cr",
+                    "previous": "\u20b94.86 Cr",
+                    "change_pct": "59.84%",
+                    "trend": "up",
+                    "signal": "positive"
+                },
+                {
+                    "label": "Net Property, Plant & Equipment",
+                    "current": "\u20b96.84 Cr",
+                    "previous": "\u20b92.98 Cr",
+                    "change_pct": "129.32%",
+                    "trend": "up",
+                    "signal": "positive"
+                },
+                {
+                    "label": "Investments",
+                    "current": "\u20b93.30 Cr",
+                    "previous": "\u20b95.05 Cr",
+                    "change_pct": "-34.57%",
+                    "trend": "down",
+                    "signal": "negative"
+                }
+            ]
+        },
+        {
+            "section_title": "Liabilities",
+            "metrics": [
+                {
+                    "label": "Total Liabilities",
+                    "current": "\u20b9151.28 Cr",
+                    "previous": "\u20b9116.60 Cr",
+                    "change_pct": "29.74%",
+                    "trend": "up",
+                    "signal": "neutral"
+                },
+                {
+                    "label": "Borrowings",
+                    "current": "\u20b983.71 Cr",
+                    "previous": "\u20b977.51 Cr",
+                    "change_pct": "8.00%",
+                    "trend": "up",
+                    "signal": "negative"
+                },
+                {
+                    "label": "Short Term Borrowings",
+                    "current": "\u20b948.87 Cr",
+                    "previous": "\u20b952.61 Cr",
+                    "change_pct": "-7.11%",
+                    "trend": "down",
+                    "signal": "positive"
+                },
+                {
+                    "label": "Long Term Borrowings",
+                    "current": "\u20b934.83 Cr",
+                    "previous": "\u20b924.90 Cr",
+                    "change_pct": "39.90%",
+                    "trend": "up",
+                    "signal": "negative"
+                }
+            ]
+        },
+        {
+            "section_title": "Equity",
+            "metrics": [
+                {
+                    "label": "Total Equity",
+                    "current": "\u20b964.95 Cr",
+                    "previous": "\u20b960.76 Cr",
+                    "change_pct": "6.89%",
+                    "trend": "up",
+                    "signal": "positive"
+                },
+                {
+                    "label": "Share Capital",
+                    "current": "\u20b90.02 Cr",
+                    "previous": "\u20b90.02 Cr",
+                    "change_pct": "2.92%",
+                    "trend": "up",
+                    "signal": "positive"
+                },
+                {
+                    "label": "Reserves & Surplus",
+                    "current": "\u20b946.41 Cr",
+                    "previous": "\u20b946.68 Cr",
+                    "change_pct": "-0.60%",
+                    "trend": "down",
+                    "signal": "negative"
+                }
+            ]
+        }
+    ]
+}
